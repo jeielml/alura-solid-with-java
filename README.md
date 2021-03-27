@@ -1,5 +1,6 @@
 # SOLID com Java: Princípios da programação orientada a objetos
 
+https://cursos.alura.com.br/course/solid-orientacao-objetos-java
 ----
 
 ## Aula 1: "Orientação a Objetos: Coesão, Encapsulamento e Acoplamento"
@@ -89,13 +90,22 @@ Nesta aula, aprendemos:
 * Que, embora a herança favoreça o reaproveitamento de código, ela pode trazer efeitos colaterais quando não utilizada da maneira correta;
 * Que o Princípio de Substituição de Liskov (LSP) diz que devemos poder substituir classes base por suas classes derivadas em qualquer lugar, sem problema.
 
+----
+## Aula 5: Trabalhando com abstrações
+
+### Atividade 2: Criando abstrações com interfaces e polimorfismo
+
+Esta aula remete à implementação realizada anteriormente quando em ReajusteService.java, ao invés de instanciar cada validacao, foi criada uma lista do tipo (i)ValidaçãoReajuste.java
+
+### Atividade 3: Dependency Inversion Principle
+
+"Se você quiser ligar uma lâmpada na sua casa, você deveria soldar o fio diretamente na tomada?"
+
+"Abstrações não devem depender de imlementações;
+Implementações devem depender de abstrações>"-  Robert (uncle Bob) Martin
+
 
 ----
-
-
-
-
-
 # Sugestão de conteúdo complementar:
 
 * SOLID fica FÁCIL com Essas Ilustrações - Filipe Deschamps
