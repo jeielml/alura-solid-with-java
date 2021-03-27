@@ -67,7 +67,30 @@ Nesta aula, aprendemos:
 * Realizando a progressão de cargo:
   * \#Critica 3: retornar o próprio cargo pode gerar stack over flow caso alguém decida percorrer a progressão de cargos
    * https://cursos.alura.com.br/forum/topico-aula-4-atividade-2-gerente-proximocargo-149258 
+
+### Atividade 3: Utilizando herança da maneira errada
+
+* Um terceirizado possui várias características em comum de um Funcionario.
+* Extender Funcionários é um equívoco que gera acoplamento e alguns problemas de comportamento para resolver, como o aumento salarial e a promoção
+* O adequado é favorecer composição à herança, para tanto:
+  * Extrair os dados comuns entre Terceirizado e Funcionario para uma classe "DadosPessoais"
+  * Compor Terceirizado e Funcionario com DadosPessoais
+  * Isto remete a "Liskov Substitution Principle"
+  
+### Atividade 5: Liskov Substitution Principle
+
+  "Se parece com um pato, faz quack como um pato, mas precisa de bateria, então não é um pato, você está usando a abstração errada"
+
+  "Se q(x0 é uma propriedade demonstrável dos objetos x de tipo T, etnaõ q(y) deve ser verdadeiro para objetos y de tipoS, onde S é um subtipo de T", Barbara Liskov"
+
+
+
+
 ----
+
+
+
+
 
 # Sugestão de conteúdo complementar:
 

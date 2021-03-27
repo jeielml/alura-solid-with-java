@@ -21,7 +21,7 @@ public class ReajusteService extends ValidacaoPercentualReajuste {
      */
     public void reajustarSalarioDoFuncionario(Funcionario funcionario, BigDecimal aumento) {
         this.validacoes.forEach(validacao -> validacao.validar(funcionario, aumento));
-        BigDecimal salarioAtual = funcionario.getSalario();
+        BigDecimal salarioAtual = funcionario.getDadosPessoais().getSalario();
         BigDecimal novoSalario = salarioAtual.add(aumento);
 
         funcionario.atualizarSalario(novoSalario);
