@@ -22,6 +22,17 @@ Nesta aula, aprendemos:
 
 ## Aula 2: Melhorando a Coesão
 
+### Atividade 1
 * \#Crítica01: A estrutura apresentada na Atividade 1 da Aula dois torna a classe Funcionário anêmica (Anemic Model)
   * Anti pattern: https://www.martinfowler.com/bliki/AnemicDomainModel.html
   * Questionamento à Alura: https://cursos.alura.com.br/forum/topico-aula-2-atividade-1-anti-pattern-anemic-domain-model-149250
+  
+### Atividade 3
+* Single Responsability Principal: "Só porque você pode, não significa que você deve!"
+
+Nesta aula, aprendemos:
+
+* Que classes/métodos/funções/módulos devem ter uma única responsabilidade bem definida;
+* Que, segundo o Princípio de Responsabilidade Única (SRP), uma classe deve ter um e apenas um motivo para ser alterada;
+* Como realizar uma refatoração no nosso sistema, para aplicar o SRP;
+* Como extrair uma classe.
