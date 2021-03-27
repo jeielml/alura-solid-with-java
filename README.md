@@ -46,3 +46,34 @@ Nesta aula, aprendemos:
 * \#Critica2:
   * A estrutura apresentada força a existẽncia de um parâmetro nunca tulizado na classe ValidacaoPeriodicidadeEntreReajustes.java
   * Questionamento à Alura: https://cursos.alura.com.br/forum/topico-aula-3-atividade-2-extraindo-validacoes-acoplamento-149254
+  
+### Atividade 4: Open Closed Principal
+* "Não é preciso realizar uma cirurgia de peito aberto para colocar um casaco"
+  * "Entidades de software (classes, módulos, funções, etc.) devem estar abertas para extensão, porém fechadas para modificação" -Bertrand Meyer
+
+
+Nesta aula, aprendemos:
+
+* Que cada classe deve conhecer e ser responsável por suas próprias regras de negócio;
+* Que o princípio Aberto/Fechado (OCP) diz que um sistema deve ser aberto para a extensão, mas fechado para a modificação
+  * Isso significa que devemos poder criar novas funcionalidades e estender o sistema sem precisar modificar muitas classes já existentes
+* Uma classe que tende a crescer "para sempre" é uma forte candidata a sofrer alguma espécie de refatoração.
+
+
+
+
+----
+
+# Sugestão de conteúdo complementar:
+
+* SOLID fica FÁCIL com Essas Ilustrações - Filipe Deschamps
+  * https://www.youtube.com/watch?v=6SfrO3D4dHM
+  
+* The S.O.L.I.D Principles in Pictures
+  * https://medium.com/backticks-tildes/the-s-o-l-i-d-principles-in-pictures-b34ce2f1e898
+  
+* SOLID (O básico para você programar melhor) // Dicionário do Programador
+ * https://www.youtube.com/watch?v=mkx0CdWiPRA
+
+* Princípios SOLID em uma API REST com Node.js e TypeScript | Code/Drops #44
+  * https://www.youtube.com/watch?v=vAV4Vy4jfkc
