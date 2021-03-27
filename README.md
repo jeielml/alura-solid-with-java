@@ -42,3 +42,7 @@ Nesta aula, aprendemos:
 ## Aula 3: Reduzindo o acoplamento
 
 ### Atividade 2: Extraindo Validações
+
+* \#Critica2:
+  * A estrutura apresentada força a existẽncia de um parâmetro nunca tulizado na classe ValidacaoPeriodicidadeEntreReajustes.java
+  * Questionamento à Alura: https://cursos.alura.com.br/forum/topico-aula-3-atividade-2-extraindo-validacoes-acoplamento-149254
