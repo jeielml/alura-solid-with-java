@@ -104,6 +104,15 @@ Esta aula remete à implementação realizada anteriormente quando em ReajusteSe
 "Abstrações não devem depender de imlementações;
 Implementações devem depender de abstrações>"-  Robert (uncle Bob) Martin
 
+### Atividade 5: Interface Segregation Principle
+
+" Uma classe não deveria ser forçada a depender de métodos que não utilizará" -  Roberto (uncle Bob) Martin
+
+Ex> Interface Reajuste x Reajuste Tributável
+
+
+
+
 
 ----
 # Sugestão de conteúdo complementar:
