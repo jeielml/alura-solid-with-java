@@ -24,3 +24,4 @@ Nesta aula, aprendemos:
 
 * \#Crítica01: A estrutura apresentada na Atividade 1 da Aula dois torna a classe Funcionário anêmica (Anemic Model)
   * Anti pattern: https://www.martinfowler.com/bliki/AnemicDomainModel.html
+  * Questionamento à Alura: https://cursos.alura.com.br/forum/topico-aula-2-atividade-1-anti-pattern-anemic-domain-model-149250
