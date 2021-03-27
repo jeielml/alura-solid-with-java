@@ -84,6 +84,10 @@ Nesta aula, aprendemos:
   "Se q(x0 é uma propriedade demonstrável dos objetos x de tipo T, etnaõ q(y) deve ser verdadeiro para objetos y de tipoS, onde S é um subtipo de T", Barbara Liskov"
 
 
+Nesta aula, aprendemos:
+
+* Que, embora a herança favoreça o reaproveitamento de código, ela pode trazer efeitos colaterais quando não utilizada da maneira correta;
+* Que o Princípio de Substituição de Liskov (LSP) diz que devemos poder substituir classes base por suas classes derivadas em qualquer lugar, sem problema.
 
 
 ----
