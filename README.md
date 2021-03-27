@@ -59,9 +59,14 @@ Nesta aula, aprendemos:
   * Isso significa que devemos poder criar novas funcionalidades e estender o sistema sem precisar modificar muitas classes já existentes
 * Uma classe que tende a crescer "para sempre" é uma forte candidata a sofrer alguma espécie de refatoração.
 
+----
 
+## Aula 4: Herança Indesejada
 
-
+### Atividade 2: Implementando uma nova regra de negócio
+* Realizando a progressão de cargo:
+  * \#Critica 3: retornar o próprio cargo pode gerar stack over flow caso alguém decida percorrer a progressão de cargos
+   * https://cursos.alura.com.br/forum/topico-aula-4-atividade-2-gerente-proximocargo-149258 
 ----
 
 # Sugestão de conteúdo complementar:
