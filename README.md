@@ -35,4 +35,10 @@ Nesta aula, aprendemos:
 * Que classes/métodos/funções/módulos devem ter uma única responsabilidade bem definida;
 * Que, segundo o Princípio de Responsabilidade Única (SRP), uma classe deve ter um e apenas um motivo para ser alterada;
 * Como realizar uma refatoração no nosso sistema, para aplicar o SRP;
-* Como extrair uma classe.
+* Como extrair uma classe
+
+----
+
+## Aula 3: Reduzindo o acoplamento
+
+### Atividade 2: Extraindo Validações
