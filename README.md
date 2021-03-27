@@ -17,3 +17,10 @@ Nesta aula, aprendemos:
   * Acoplamento é a dependência entre classes
   * Acoplamento nem sempre é ruim, e que é impossível criar um sistema sem nenhum acoplamento
   * Devemos controlar o nível de acoplamento na nossa aplicação (falaremos mais sobre isso)
+  
+----
+
+## Aula 2: Melhorando a Coesão
+
+* \#Crítica01: A estrutura apresentada na Atividade 1 da Aula dois torna a classe Funcionário anêmica (Anemic Model)
+  * Anti pattern: https://www.martinfowler.com/bliki/AnemicDomainModel.html
